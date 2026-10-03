@@ -1,5 +1,11 @@
 # ChatGPT Bulk Chat Delete
 
+[![Release](https://img.shields.io/github/v/release/njtbcrn/chatgpt-bulk-chat-delete)](https://github.com/njtbcrn/chatgpt-bulk-chat-delete/releases/latest)
+[![License](https://img.shields.io/github/license/njtbcrn/chatgpt-bulk-chat-delete)](LICENSE)
+![Chrome](https://img.shields.io/badge/Chrome-tested-success)
+![Edge](https://img.shields.io/badge/Edge-tested-success)
+![Opera](https://img.shields.io/badge/Opera-tested-success)
+
 A small bookmarklet that adds explicit selection boxes to ChatGPT's conversation sidebar so you can inspect chats normally, select only the ones you want, and permanently delete the selected chats in bulk.
 
 **Tested manually:** Chrome, Edge, Opera (October 2026).
